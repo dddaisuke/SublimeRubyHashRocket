@@ -22,7 +22,7 @@ Alternatively, you can clone the repository directly from GitHub into your Packa
 
 ## Credits
 
-- dddaisuke ![http://twitter.com/dddaisuke](http://twitter.com/dddaisuke)
+- dddaisuke <http://twitter.com/dddaisuke>
 
 ## License
 
