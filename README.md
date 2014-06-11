@@ -7,7 +7,9 @@ Simple plugin for input Ruby hash rocket ( => ) by a shortcut.
 ### Clone from GitHub
 Alternatively, you can clone the repository directly from GitHub into your Packages directory:
 
-    git clone http://github.com/dddaisuke/SublimeRubyHashRocket
+    git clone git@github.com:dddaisuke/SublimeRubyHashRocket.git
+        or
+    git clone https://github.com/dddaisuke/SublimeRubyHashRocket
 
 ## Key binding
 
